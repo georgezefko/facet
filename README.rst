@@ -322,7 +322,7 @@ or have a look at
     :target: https://pypi.org/project/gamma-facet/
 
 .. |azure_build| image:: https://dev.azure.com/gamma-facet/facet/_apis/build/status/BCG-Gamma.facet?repoName=BCG-Gamma%2Ffacet&branchName=develop
-   :target: https://dev.azure.com/gamma-facet/facet/_build?definitionId=7&_a=summary
+   :target: https://dev.azure.com/gamma-facet/facet/_build/results
 
 .. |azure_code_cov| image:: https://img.shields.io/azure-devops/coverage/gamma-facet/facet/_build?definitionId=7.svg
    :target: https://dev.azure.com/gamma-facet/facet/_build?definitionId=7&_a=summary
